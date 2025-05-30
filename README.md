@@ -128,7 +128,8 @@ test_loader = DataLoader(NERDataset(X_test, y_test), batch_size=32)
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/f72f59e4-eaee-461d-8af3-33c1101a8c8e)
+C![Screenshot 2025-05-30 105144](https://github.com/user-attachments/assets/94a9a86a-4cb2-4136-bf71-03d9629dced6)
+
 
 ![image](https://github.com/user-attachments/assets/33692b41-267a-49fe-ac87-3f6573c7e896)
 
